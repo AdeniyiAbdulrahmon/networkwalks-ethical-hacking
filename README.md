@@ -19,3 +19,5 @@ Kali Linux | Nmap | zenmap | Python | Bash | theHarvester | Sherlock | SpiderFoo
 - 
 ## Disclaimer
 This lab was done in a controlled environment for learning purposes only.
+
+![My Lab Screenshot](lab-screenshot.png)
